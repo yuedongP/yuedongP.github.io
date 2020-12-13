@@ -2,15 +2,13 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
     <p>Montreal, Quebec, Canada</p>
-    <p>yue[dot]dong2[at]mail[dot]mcgill[dot]ca</p>
-    <p>[curriculum vitae (PDF)]("\assets\Yue_Dong_CV.pdf")</p>
+    [CV]("\assets\Yue_Dong_CV.pdf")
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
